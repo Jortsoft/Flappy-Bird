@@ -1,3 +1,6 @@
+![Flappy_Bird_icon](https://user-images.githubusercontent.com/48485731/151931546-e9f22fdf-2378-44cc-b3b1-6a95bc292f85.png)
+
+
 # Flappy-Bird
 Flappy bird with js
 
